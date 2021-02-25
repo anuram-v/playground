@@ -1,0 +1,8 @@
+{
+    "watch": ["server/**/*", "index.js"],
+    "ext": "js,json",
+    "delay": 1000,
+    "ignore": ["node_modules", ".next"],
+    "verbose": true
+  }
+  
