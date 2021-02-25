@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "nodemon src/server/server.js",
-    "build": "next build",
-    "start": "node src/server/server.js"
+        "start": "node src/server/server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
